@@ -4,7 +4,7 @@ A responsive landing page for a merch and print-on-demand (POD) artwork business
 
 ## Tooling included
 
-- Vite 5 (dev server + build)
+- Vite 6 (dev server + build)
 - React 18
 - Tailwind CSS + PostCSS + Autoprefixer
 - ESLint 9 (flat config)
